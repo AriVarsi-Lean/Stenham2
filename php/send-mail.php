@@ -1,6 +1,6 @@
 <?php
-	$to = "jdrendon@imaginacionweb.net"; /*Your Email*/
-	$subject = "Messsage from Sports Cup Template"; /*Issue*/
+	$to = "arivarsi@ktasolutions.co.za"; /*Your Email*/
+	$subject = "Messsage from Stenham Private School site"; /*Issue*/
 	$date = date ("l, F jS, Y"); 
 	$time = date ("h:i A"); 	
 	$Email=$_REQUEST['Email'];
